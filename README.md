@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My expertise includes:<br><br>🎯Programming: Python (NumPy, Pandas, PySpark), Bash<br>🎯Tools: Git, Plastic SCM, Pentaho<br>🎯Platforms: Microsoft Azure (DP-203 Certified), Oracle<br>🎯Data Solutions: DWH, Data Lakes, Big Data frameworks like Apache Spark</p>
+<p align="left">My expertise includes:<br><br>🎯Programming: Python (NumPy, Pandas, PySpark), Bash, PL/SQL<br>🎯Tools: Git, Plastic SCM, Pentaho<br>🎯Platforms: Microsoft Azure (DP-203 Certified), Oracle<br>🎯Data Solutions: DWH, Data Lakes, Big Data frameworks like Apache Spark</p>
 
 ###
 
