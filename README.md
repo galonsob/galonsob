@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🚀 Specialized in data engineering and have professional experience designing and implementing data warehouses (DWH), building ETL processes and working with complex healthcare data migrations. My current role as part of the Migration team at Dedalus Iberia involves leveraging tools like PL-SQL, Pentaho Data Integration, Git and JIRA to ensure efficient healthcare information system deployment and maintenance.  <br>Certified Azure Data Engineer.</h2>
+<h2 align="left">🚀 I'm specialized in data engineering and I have professional experience designing and implementing data warehouses (DWH), building ETL processes and working with complex healthcare data migrations. My current role as part of the Migration team at Dedalus Iberia involves leveraging tools like PL-SQL, Pentaho Data Integration, Git and JIRA to ensure efficient healthcare information system deployment and maintenance.  <br>Certified Azure Data Engineer.</h2>
 
 ###
 
