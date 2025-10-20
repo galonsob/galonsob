@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">🚀 I'm specialized in data engineering and I have professional experience designing and implementing data warehouses (DWH), building ETL processes and data models in different industries, mainly healthcare and energy. My current role as part of the Data Engineering at TOKIOTA involves leveraging tools like T-SQL, ADF, Azure DevOps, Azure Databricks and ADLS to ensure efficient ETL development, deployment and maintenance.  <br>Certified Azure Data Engineer.</h2>
+<h2 align="left">🚀 I'm specialized in data engineering and I have professional experience designing and implementing data warehouses (DWH), building ETL processes and data models in different industries, mainly healthcare and energy. My current role as part of the Data Engineering at TOKIOTA involves leveraging tools like T-SQL, ADF, Azure DevOps, Azure Databricks, Microsoft Fabric and ADLS to ensure efficient ETL development, deployment and maintenance.  <br>Certified Azure Data Engineer.</h2>
 
 ###
 
-<p align="left">My expertise includes:<br><br>🎯Programming: Python (NumPy, Pandas, PySpark), Bash, PL/SQL<br>🎯Tools: Git, Plastic SCM, Pentaho<br>🎯Platforms: Microsoft Azure (DP-203 Certified), Oracle<br>🎯Data Solutions: DWH, Data Lakes, Big Data frameworks like Apache Spark</p>
+<p align="left">My expertise includes:<br><br>🎯Programming: Python (NumPy, Pandas, PySpark), Bash, PL/SQL<br>🎯Tools: Git, Plastic SCM, Pentaho, Visual Code Studio, Dbeaver <br>🎯Platforms: Microsoft Azure (DP-203 Certified), Oracle<br>🎯Data Solutions: DWH, Data Lakes, Big Data frameworks like Apache Spark</p>
 
 ###
 
